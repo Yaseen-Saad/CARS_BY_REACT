@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CARS_BY_REACT/static/css/main.333ade06.css",
+    "main.js": "/CARS_BY_REACT/static/js/main.b332c841.js",
+    "index.html": "/CARS_BY_REACT/index.html",
+    "main.333ade06.css.map": "/CARS_BY_REACT/static/css/main.333ade06.css.map",
+    "main.b332c841.js.map": "/CARS_BY_REACT/static/js/main.b332c841.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.333ade06.css",
+    "static/js/main.b332c841.js"
+  ]
+}
